@@ -36,7 +36,7 @@ This module:
 
 A small test file is included so you can quickly verify the output with example inputs and thresholds.
 
-Run the test with:
+Run the test with: node test.js
 
 
 ---
@@ -53,6 +53,3 @@ The solution focuses on clarity and correctness.
 It avoids unnecessary complexity, making it easy for any developer to understand, maintain, or extend.
 
 ---
-
-If you'd like, I can also write a short **GitHub description** and **commit message** so the repo looks polished and intentional.  
-Want that?
