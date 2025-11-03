@@ -44,6 +44,8 @@ Run the test with: node test.js
 ## ✅ Expected Output Example
 
 Given a set of ranges and a threshold, the module returns a shorter, merged set of intervals that represent actual continuous activity.
+<img width="678" height="107" alt="image" src="https://github.com/user-attachments/assets/de451273-16d2-48ce-9765-83091c497b4d" />
+
 
 ---
 
